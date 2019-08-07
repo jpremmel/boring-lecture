@@ -2,17 +2,14 @@
   text-align: center;
 }
 
-h2.intro {
+.intro {
   text-align: center;
   font-style: italic;
   color: blue;
-}
-
-p.intro {
   text-decoration: underline;
 }
 
-img.intro {
+img {
   border-radius: 15px;
   max-width: 100%;
   height: auto;
@@ -23,4 +20,9 @@ img.intro {
 
 body {
   background-color: skyblue;
+}
+
+.random {
+  font-weight: bold;
+  color: #871F78;
 }
