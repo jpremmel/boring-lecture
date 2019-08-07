@@ -11,7 +11,7 @@
 img {
   float: left;
   border-radius: 15px;
-  margin: 12px;
+  margin-left: 40px;
   border: 10px solid green;
 }
 
@@ -24,9 +24,9 @@ body {
   color: #871F78;
 }
 
-/*.content {
+.content {
   margin-top: 300px;
-}*/
+}
 
 .items {
   float: right;
@@ -34,7 +34,7 @@ body {
   background-color: pink;
   border: 2px solid green;
   padding: 5px;
-  margin: 12px;
+  margin: 40px;
   }
 
 .column {
@@ -44,9 +44,4 @@ body {
   border: 2px dashed green;
   padding: 8px;
   background-color: pink;
-}
-
-.subintro {
-  float: left;
-  width: 70%;
 }
