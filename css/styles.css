@@ -1,14 +1,24 @@
 .center {
   text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
-.intro {
+h2.intro {
   text-align: center;
   font-style: italic;
   color: blue;
+}
+
+p.intro {
+  text-decoration: underline;
+}
+
+img.intro {
+  border-radius: 15px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
