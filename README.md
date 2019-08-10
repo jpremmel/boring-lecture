@@ -14,4 +14,4 @@ _This project can be viewed at https://jpremmel.github.io/boring-lecture/._
 
 ### License
 
-Copyright (c) 2016 **_Jacqueline Remmel and Chris Burge_**
+Copyright (c) 2019 **_Jacqueline Remmel and Chris Burge_**
